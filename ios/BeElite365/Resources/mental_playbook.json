@@ -1,0 +1,84 @@
+{
+  "principles": [
+    "Confidence comes from clarity and action.",
+    "Emotions are signals, not commands.",
+    "Where energy goes, energy flows.",
+    "Master the mind and the body follows.",
+    "Control what you can control and release what you cannot.",
+    "Pressure is a privilege — it means the moment matters.",
+    "Your next action is always within your control."
+  ],
+  "frameworks": {
+    "three_rs": [
+      "Reset: acknowledge emotion and release the previous moment.",
+      "Regroup: restore clarity and identify controllables.",
+      "Refocus: commit attention to the next action."
+    ],
+    "performance_triangle": [
+      "Mental Preparation",
+      "Practice Quality",
+      "Performance Reaction"
+    ],
+    "cognitive_appraisal": [
+      "Thought: what happened.",
+      "Interpretation: what you make it mean.",
+      "Emotion: what you feel as a result.",
+      "Behaviour: what you do next."
+    ]
+  },
+  "self_talk_system": {
+    "label": "I notice the feeling.",
+    "reframe": "This is my body preparing to perform.",
+    "redirect": "Focus on the next action.",
+    "examples": [
+      {
+        "emotion": "frustration",
+        "label": "I notice the frustration after that misplaced pass.",
+        "reframe": "One pass does not define my performance.",
+        "redirect": "Win the next ball. Play simple."
+      },
+      {
+        "emotion": "anxiety",
+        "label": "I notice the nerves before kick-off.",
+        "reframe": "This is my body preparing to compete at a high level.",
+        "redirect": "Focus on my first touch and first action."
+      },
+      {
+        "emotion": "anger",
+        "label": "I notice the anger after that tackle.",
+        "reframe": "Anger is energy. I choose where it goes.",
+        "redirect": "Channel it into the next defensive action."
+      },
+      {
+        "emotion": "doubt",
+        "label": "I notice doubt creeping in after that miss.",
+        "reframe": "Doubt is a thought, not a fact. My preparation is real.",
+        "redirect": "Commit fully to the next involvement."
+      },
+      {
+        "emotion": "embarrassment",
+        "label": "I notice embarrassment after that error.",
+        "reframe": "Every player makes errors. Recovery speed defines elite performers.",
+        "redirect": "Reset body language. Next action, full commitment."
+      }
+    ]
+  },
+  "reset_techniques": [
+    "30-second controlled breathing: inhale 4, hold 4, exhale 6.",
+    "Physical release: shake hands, roll shoulders, unclench jaw.",
+    "Verbal cue: say 'release' or 'next' under your breath.",
+    "Body language reset: stand tall, chest open, eyes up."
+  ],
+  "regroup_techniques": [
+    "Controllables check: what can I influence right now?",
+    "Role clarity: what does the team need from me in this moment?",
+    "Simplify: reduce to one clear task.",
+    "Composure anchor: touch your wristband or boot as a cue to regroup."
+  ],
+  "refocus_techniques": [
+    "Next-action targeting: name one specific thing you will do next.",
+    "Attentional narrowing: where is the ball, where is my marker?",
+    "Process commitment: focus on execution, not outcome.",
+    "Visualise success: see yourself completing the next action cleanly."
+  ]
+}
